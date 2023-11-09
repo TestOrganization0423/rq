@@ -7,7 +7,6 @@ sentence_transformers==2.2.2
 Pillow
 fastapi
 PyPDF2
-torch==2.0.1
 pydantic==2.0.1
 uvicorn
 sse-starlette
